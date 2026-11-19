@@ -1,0 +1,7 @@
+{
+  "name": "jekyll-demo",
+  "private": true,
+  "scripts": {
+    "build": "bundle exec jekyll build"
+  }
+}
